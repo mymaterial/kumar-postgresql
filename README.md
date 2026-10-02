@@ -1,6 +1,9 @@
 PostgreSQL Database Management System
 =====================================
 
+EDITED LOCALLY
+
+
 This directory contains the source code distribution of the PostgreSQL
 database management system.
 
